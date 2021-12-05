@@ -431,3 +431,34 @@
   flex-direction: column;
   width: 27%;
 }
+.icon-link{
+  margin: auto;
+}
+.title-description{
+  margin-top: 52px;
+  text-align: center;
+}
+.link-item-description{
+  margin-top: 22px;
+  color: #9a9a9a;
+  font-family:"Poppins-regular";
+}
+.svg-linklist{
+  border-radius: 75px;
+  background-size: 150px;
+}
+.svg-linklist.svg-1{
+  background-color: #4bd2ff;
+  padding: 8px;
+}
+.svg-linklist.svg-2{
+  background-color: #694bff;
+  padding: 8px;
+}
+.svg-linklist.svg-3{
+  background-color: #ffb14b;
+  padding: 8px;
+}
+.title-h4{
+  font-size: 18px;
+}
