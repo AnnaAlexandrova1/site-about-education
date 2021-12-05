@@ -462,3 +462,21 @@
 .title-h4{
   font-size: 18px;
 }
+
+.footer{
+  margin-top: 160px;
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  color: #9a9a9a;
+}
+.footer-list{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+.footer-item:nth-child(n+1){
+  margin-left:46px;
+}
