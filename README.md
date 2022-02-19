@@ -3,4 +3,4 @@
 * HTML
 * CSS
 * JavaScript
-![](https://github.com/AnnaAlexandrova1/site-about-education/tree/master/forGIT.png)
+![](https://github.com/AnnaAlexandrova1/site-about-education/blob/master/images/forGIT.png)
